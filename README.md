@@ -2,4 +2,4 @@
 pattern password graphical simulator in matlab
 
 ## Correct Pattern : 
-[!] Images\correctPass.jpg
+[!] D:\GitHub\PatternPassword\Pattern-Password\Images\correctPass.jpg
